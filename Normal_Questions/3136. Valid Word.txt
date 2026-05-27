@@ -1,0 +1,14 @@
+class Solution:
+    def isValid(self, word: str) -> bool:
+        if len(word)<3:
+            return False
+        if not word.isalnum():
+            return False
+        con = False
+        vow =  False
+        for i in word.lower():
+            if i in "aeiou":
+                vow = True
+            elif i.isalpha():
+                con = True
+        return con and vow
