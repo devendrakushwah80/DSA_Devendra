@@ -1,0 +1,16 @@
+class Solution:
+    def frequencySort(self, s: str) -> str:
+        freq ={}
+        for i in s:
+            if i in freq:
+                freq[i]+=1
+            else:
+                freq[i]=1
+        val = list(freq.items())
+        val.sort(key=lambda x: x[1], reverse=True)
+        res =str()
+        for i,j in val:
+            res += i*j
+        return res
+
+
