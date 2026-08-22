@@ -8,10 +8,10 @@ Master the **Binary Search** pattern by solving these problems level by level.
 
 * [x] [Binary Search (#704)](https://leetcode.com/problems/binary-search/)
 * [x] [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/)
-* [ ] [Sqrt(x) (#69)](https://leetcode.com/problems/sqrtx/)
-* [ ] [Valid Perfect Square (#367)](https://leetcode.com/problems/valid-perfect-square/)
-* [ ] [Guess Number Higher or Lower (#374)](https://leetcode.com/problems/guess-number-higher-or-lower/)
-* [ ] [First Bad Version (#278)](https://leetcode.com/problems/first-bad-version/)
+* [x] [Sqrt(x) (#69)](https://leetcode.com/problems/sqrtx/)
+* [x] [Valid Perfect Square (#367)](https://leetcode.com/problems/valid-perfect-square/)
+* [x] [Guess Number Higher or Lower (#374)](https://leetcode.com/problems/guess-number-higher-or-lower/)
+* [x] [First Bad Version (#278)](https://leetcode.com/problems/first-bad-version/)
 * [ ] [Arranging Coins (#441)](https://leetcode.com/problems/arranging-coins/)
 * [ ] [Find Smallest Letter Greater Than Target (#744)](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 
