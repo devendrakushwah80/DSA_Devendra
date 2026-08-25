@@ -21,7 +21,7 @@ Master the **Binary Search** pattern by solving these problems level by level.
 
 * [x] [Find First and Last Position of Element in Sorted Array (#34)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 * [ ] [Search in a Sorted Array of Unknown Size (#702)](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
-* [ ] [Find Right Interval (#436)](https://leetcode.com/problems/find-right-interval/)
+* [x] [Find Right Interval (#436)](https://leetcode.com/problems/find-right-interval/)
 * [ ] [Find K Closest Elements (#658)](https://leetcode.com/problems/find-k-closest-elements/)
 * [x] [Successful Pairs of Spells and Potions (#2300)](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 
