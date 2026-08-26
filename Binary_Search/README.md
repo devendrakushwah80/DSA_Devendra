@@ -31,7 +31,7 @@ Master the **Binary Search** pattern by solving these problems level by level.
 
 * [x] [Search in Rotated Sorted Array (#33)](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 * [x] [Find Minimum in Rotated Sorted Array (#153)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-* [ ] [Search in Rotated Sorted Array II (#81)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+* [x] [Search in Rotated Sorted Array II (#81)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 * [ ] [Find Minimum in Rotated Sorted Array II (#154)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 
 ---
